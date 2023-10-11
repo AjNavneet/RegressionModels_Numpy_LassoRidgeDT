@@ -1,4 +1,4 @@
-# Building Regression Models with NumPy
+# Regression Models with NumPy
 
 ## Introduction
 Regression is a type of supervised learning algorithm used to understand the relationship between one or more independent variables and a dependent variable. In this project, we will build regression models from scratch using NumPy, providing flexibility and control over the training process.
@@ -40,7 +40,7 @@ The project's modular code is organized as follows:
 ---
 
 
-
+```
 - InputFiles
   |__ EPL_Soccer_MLR_LR.csv
   
@@ -71,7 +71,7 @@ The project's modular code is organized as follows:
   |__ Reg_tree_model.pkl
 
 ---
-
+```
 
 
 ## Takeaways
