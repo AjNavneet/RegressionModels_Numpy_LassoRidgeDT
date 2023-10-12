@@ -74,8 +74,9 @@ The project's modular code is organized as follows:
 ```
 
 
-## Takeaways
-Throughout this project, you will review knowledge about:
+## Concepts Explored
+Throughout the project, we explored various concepts and techniques, including
+
 - What regression is and its applications.
 - Types of regression.
 - Linear regression, loss functions, and gradient descent.
