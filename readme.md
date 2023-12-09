@@ -1,4 +1,4 @@
-# Regression Models with NumPy
+# Ridge and Lasso Regression Models with NumPy
 
 ## Objective
 
@@ -42,14 +42,5 @@ The dataset contains information about sports players and aims to predict their 
 2. Src folder: Contains modularized code for pipeline - data processing, model building, and validation.
 3. Output folder: Stores the trained models for future use.
 4. Lib folder: Includes reference materials, such as notebooks and presentations.
-
----
-
-## Concepts Explored
-
-- Linear regression, loss functions, and gradient descent.
-- Ridge and Lasso regression.
-- Decision trees
-- Model evaluation using MSE and R-squared.
 
 ---
